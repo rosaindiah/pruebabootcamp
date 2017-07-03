@@ -56,3 +56,8 @@ Y ahora tocan los listados no numricos:
          * Cuarto orden
          
 Probemos a ver qué sale ^^
+
+Las líneas horizontales de separación se hacen como siempre con la línea de guión pulsada 
+_________________________________________________________________________________________
+
+
