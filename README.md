@@ -48,3 +48,11 @@ Vamos a probar el tachado: ponemos ~~AltGr ñ y así nos pone el tachado~~
        1. y así
 1. dos
 1. el tres
+
+Y ahora tocan los listados no numricos:
+* Primer orden
+    * Segundo orden
+      * Tercer orden
+         * Cuarto orden
+         
+Probemos a ver qué sale ^^
