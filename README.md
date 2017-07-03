@@ -42,7 +42,7 @@ Vamos a probar el tachado: ponemos ~~AltGr ñ y así nos pone el tachado~~
 **Negrita** se escribe poniendo una \\ antes del \**
 
 1. Numeracion
-  1. se pone usando un tabulador
+  1.1. se pone usando un tabulador
   1. sólo tienes que poner el uno seguido del punto y entonces te autonumera
     1. tal que así
     1. y así
