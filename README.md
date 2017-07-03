@@ -34,4 +34,4 @@ Para _cursiva_ *cursiva*
 
 Probemos: _si pongo un guión bajo sólo me lo pone en cursiva_ pero si en lugar de guión bajo pongo __dos guiones bajos__ entonces me pone el texto __en negrita__
 
-Vamos a probar el tachado: ponemos ~ AltGr ñ y así nos pone el tachado ~
+Vamos a probar el tachado: ponemos ~AltGr ñ y así nos pone el tachado~
