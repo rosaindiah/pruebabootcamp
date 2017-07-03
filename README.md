@@ -28,4 +28,6 @@ OJO NO FORMATEA ESTÉTICA SINO LÓGICA Y POR ESO DEPENDE DE DÓNDE LO VEAS TE AP
 
 Para **negritas**
 
-Para _¿cursiva?_
+Para __negrita__
+
+Para _¿cursiva?_ *cursiva*
