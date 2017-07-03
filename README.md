@@ -38,3 +38,5 @@ Vamos a probar el tachado: ponemos ~~AltGr ñ y así nos pone el tachado~~
 
 
 ~kjdfhlsdjfhalskjdfhlasdjfh~ 
+
+**Negrita** se escribe poniendo una \\ antes del \**
