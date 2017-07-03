@@ -65,7 +65,7 @@ Que con el guión normal
 
 Probemos enlaces:
 
-[Telegram]
+[Telegram](https://web.telegram.org/#/im?p=g210854854)
 
-(www.gmail.com) (https://web.telegram.org/#/im?p=g210854854)
+(www.gmail.com) 
 
