@@ -57,9 +57,15 @@ Y ahora tocan los listados no numricos:
          
 Probemos a ver qué sale ^^
 
-Las líneas horizontales de separación se hacen como siempre con la línea de guión pulsada 
+Las líneas horizontales de separación se hacen como siempre con la línea de guión pulsada y queda igual con el guión bajo
 _________________________________________________________________________________________
 
+Que con el guión normal
 -----------------------------------------------------------------------------------------
 
+Probemos enlaces:
+
+[www.gmail.com]
+
+(www.gmail.com)
 
