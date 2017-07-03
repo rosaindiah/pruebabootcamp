@@ -69,3 +69,8 @@ Probemos enlaces:
 
 (www.gmail.com) 
 
+Probemos a abreviar
+
+Si queremos que [osl] nos lleve a [osl]: http://www.osl.ugr.es
+
+Si lo que quiero es que [ugr] me lleve a [ugr]: http://ugr.es
