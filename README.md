@@ -71,9 +71,13 @@ Probemos enlaces:
 
 Probemos a abreviar
 
-Si queremos que [osl] nos lleve a [osl]: http://www.osl.ugr.es
+Si queremos que [almería] nos lleve a 
 
-Si lo que quiero es que [ugr] me lleve a [ugr]: http://ugr.es
+[almería]: https://ual.es/
+
+Si lo que quiero es que [ugr] me lleve a 
+
+[ugr]: http://ugr.es
 
 Imagen
 
