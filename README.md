@@ -40,3 +40,7 @@ Vamos a probar el tachado: ponemos ~~AltGr ñ y así nos pone el tachado~~
 ~kjdfhlsdjfhalskjdfhlasdjfh~ 
 
 **Negrita** se escribe poniendo una \\ antes del \**
+
+1. Numeracion
+1. dos
+1. el tres
