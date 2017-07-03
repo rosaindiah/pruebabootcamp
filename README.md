@@ -81,6 +81,6 @@ Si lo que quiero es que [ugr] me lleve a
 
 Imagen
 
-[mar]: (http://cdn.traveler.es/uploads/images/thumbs/es/trav/2/s/2016/29/playa_de_salinas_ibiza_4814_1200x800.jpg "mar cádiz")
+[mar]: http://cdn.traveler.es/uploads/images/thumbs/es/trav/2/s/2016/29/playa_de_salinas_ibiza_4814_1200x800.jpg"mar cádiz"
 
 ![mar]
