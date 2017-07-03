@@ -77,7 +77,7 @@ Si queremos que [almería] nos lleve a
 
 Si lo que quiero es que [ugr] me lleve a 
 
-[ugr]: http://ugr.es
+[ugr]: http://www.ugr.es/
 
 Imagen
 
