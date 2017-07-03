@@ -25,3 +25,7 @@ FEO feo
 
 OJO NO FORMATEA ESTÉTICA SINO LÓGICA Y POR ESO DEPENDE DE DÓNDE LO VEAS TE APARECE DE UNA FORMA O DE OTRA
 =========================================================================================================
+
+Para **negritas**
+
+Para _¿cursiva?_
