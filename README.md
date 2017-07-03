@@ -65,7 +65,7 @@ Que con el guión normal
 
 Probemos enlaces:
 
-[www.gmail.com]
+[https://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjl57yKze3UAhVHDxoKHZRjCOIQFggnMAA&url=http%3A%2F%2Fwww.exmundis.org%2F&usg=AFQjCNE9w81U0RbVIHbLtEFGjWguCARA_w]
 
 (www.gmail.com)
 
